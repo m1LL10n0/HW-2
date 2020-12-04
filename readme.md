@@ -148,7 +148,7 @@ Aνατρέχοντας στα αρχεία conifig.ini και config.json τω�
 
  **COST x (AMAT + CPI/Frequency)**
 Θέλουμε οσον δυνατό λιγοτερο κόστος και τον μικρότερο δυνατό χρόνο.
-όπου
+
 
 ΑΜΑΤ = HitRateL1 + MissRateL1 x (HitRateL2 + MissRateL2 x MissPenaltyL2)
 
