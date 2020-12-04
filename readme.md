@@ -147,12 +147,12 @@ Aνατρέχοντας στα αρχεία conifig.ini και config.json τω�
 Για την βέλτιστη επιλογή των χαρακτηριστικών του επεξεργαστη, με κριτήριο το κόστος και την ταχύτητα, χρησιμοποιούμε τον τύπο:
 
  **COST x (AMAT + CPI/Frequency)**
-
+Θέλουμε οσον δυνατό λιγοτερο κόστος και τον μικρότερο δυνατό χρόνο.
 όπου
 
 ΑΜΑΤ = HitRateL1 + MissRateL1 x (HitRateL2 + MissRateL2 x MissPenaltyL2)
 
 και 
 
-COST = (L1 Data Size + L1 Instr Size) x 1000 + (L1 Data Assoc) x 100 + (L2 Size) x 10 + (Cache Line) x 10
+COST = (L1 Data Size + L1 Instr Size) x 100 + (L1 Data Assoc) x 1000 + (L2 Size) x 10 + (L2 Size) x 100 + (Cache Line) x 100
 
