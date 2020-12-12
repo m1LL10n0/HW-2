@@ -1,0 +1,16 @@
+Benchmarks	system.cpu.cpi
+specbzip128_l1d	1.644824
+specbzip32_l1d	1.707070
+specbzip64_l1d	1.673085
+speclibm128_l1d	3.495270
+speclibm32_l1d	3.495270
+speclibm64_l1d	3.495270
+specmcf128_l1d	1.250425
+specmcf32_l1d	1.252981
+specmcf64_l1d	1.251067
+specsjeng128_l1d	10.276675
+specsjeng32_l1d	NAN
+specsjeng64_l1d	10.276466
+spechmmer_dcache128	1.185905
+spechmmer_dcache32	1.189443
+spechmmer_dcache64	1.187803

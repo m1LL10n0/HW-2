@@ -1,0 +1,16 @@
+Benchmarks	system.cpu.cpi
+specbzip1_l2_assoc	1.693528
+specbzip2_l2_assoc	1.679026
+specbzip5_l2_assoc	NAN
+speclibm1_l2_assoc	3.495270
+speclibm2_l2_assoc	3.495270
+speclibm5_l2_assoc	NAN
+specmcf1_l2_assoc	1.251540
+specmcf2_l2_assoc	1.251098
+specmcf5_l2_assoc	NAN
+specsjeng1_l2_assoc	10.274396
+specsjeng2_l2_assoc	10.278062
+specsjeng5_l2_assoc	NAN
+spechmmer_l2_assoc2	1.187803
+spechmmer_l2_assoc4	1.187803
+speclibm1_l2_assoc	3.495270
