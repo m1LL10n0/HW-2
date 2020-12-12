@@ -67,7 +67,7 @@ To default cpu-clock του se.py έιναι για εμάς 2GHz(το clock τ�
 * System.clk_domain.clock --> 1000
 * System.cpu_clk_domain --> 1000
 
-Aνατρέχοντας στα αρχεία conifig.ini και config.json των προσομοιώσεων με cpu-clock = 1GHZ  και αναζητώντας τις παραπάνω λέξεις παρατηρούμε ότι:
+Aνατρέχοντας στα αρχεία conifig.ini και config.json των προσομοιώσεων και αναζητώντας τις παραπάνω λέξεις παρατηρούμε ότι:
 
 |Xρονίζεται στο 1GHz| Χρονίζεται στα 2GHz
 |---|---
