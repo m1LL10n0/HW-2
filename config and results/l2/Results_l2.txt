@@ -1,0 +1,16 @@
+Benchmarks	system.cpu.cpi
+specbzip1024_l2	1.703159
+specbzip4096_l2	1.646081
+specbzip512_l2	1.755657
+speclibm1024_l2	3.505150
+speclibm4096_l2	3.498633
+speclibm512_l2	3.498384
+specmcf1024_l2	1.255620
+specmcf4096_l2	1.250532
+specmcf512_l2	1.261263
+specsjeng1024_l2	10.279562
+specsjeng4096_l2	10.270133
+specsjeng512_l2	10.277807
+spechmmer_l2_1024	1.187796
+spechmmer_l2_4096	1.187799
+spechmmer_l2_512	1.187792

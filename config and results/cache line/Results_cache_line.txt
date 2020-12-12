@@ -1,0 +1,16 @@
+Benchmarks	system.cpu.cpi
+specbzip128_cache_line	1.656457
+specbzip32_cache_line	1.846802
+specbzip64_cache_line	1.673085
+speclibm128_cache_line	2.581539
+speclibm32_cache_line	5.606525
+speclibm64_cache_line	3.495270
+specmcf128_cache_line	1.248943
+specmcf32_cache_line	1.245830
+specmcf64_cache_line	1.251067
+specsjeng128_cache_line	6.805772
+specsjeng32_cache_line	17.654575
+specsjeng64_cache_line	10.276466
+spechmmer_cache_line128	1.181792
+spechmmer_cache_line32	1.196797
+spechmmer_cache_line64	1.187803
