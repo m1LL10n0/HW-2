@@ -15,8 +15,6 @@
 **1)**
 Βασικές παράμετροι του επεξεργαστή που βρίσκουμε στο config.ini:
 
-| **Ονομα** |  **Τιμη** |
-
 
 |   **Ονομα**| **Τιμη** 
 |---|---
@@ -34,26 +32,26 @@
 **2)**
 Tα στοιχεία που αντλούνται απο την προσομοίωση των benchmarks συνοψίζονται στον πρακάτω πίνακα.
 
-|  Aποτελεσμα    | specbzip  | speclibm| specmcf|specsjeng
+|  Aποτελεσμα    | specbzip  | speclibm| specmcf|specsjeng|spechmmer
 |---|---|---|---|---
-|sim_seconds| 0.083654| 0.174763| 0.062553| 0.513823
-|CPI| 1.673085 |3.495270| 1.251067 |10.276466
-|miss_Rate DCACHE|0.014312| 0.0060972| 0.002062| 0.121831
-|miss_Rate ICACHE|0.000075| 0.000095| 0.019032| 0.000020
-|miss_Rate L2cache| 0.295247 |0.999940| 0.067668| 0.999978
+|sim_seconds| 0.083654| 0.174763| 0.062553| 0.513823|0.059390
+|CPI| 1.673085 |3.495270| 1.251067 |10.276466|1.187803
+|miss_Rate DCACHE|0.014312| 0.0060972| 0.002062| 0.121831|0.001622
+|miss_Rate ICACHE|0.000075| 0.000095| 0.019032| 0.000020|0.000212
+|miss_Rate L2cache| 0.295247 |0.999940| 0.067668| 0.999978|0.078296
 ---
 Στο σημείο αυτό παρατίθενται τα αντίστοιχα διαγράμματα.
 
 
-![](https://user-images.githubusercontent.com/57071317/101175480-e2c6e780-364d-11eb-9f90-930c5d1c0489.png)
+![](https://raw.githubusercontent.com/m1LL10n0/HW-2/main/figures/Figure1.jpg)
 
-![](https://user-images.githubusercontent.com/57071317/101175495-e6f30500-364d-11eb-9ab5-1bd08530591e.png)
+![](https://raw.githubusercontent.com/m1LL10n0/HW-2/main/figures/Figure2.jpg)
 
-![](https://user-images.githubusercontent.com/57071317/101175509-ebb7b900-364d-11eb-87b7-2e81cfc59141.png)
+![](https://raw.githubusercontent.com/m1LL10n0/HW-2/main/figures/Figure3.jpg)
 
-![](https://user-images.githubusercontent.com/57071317/101175523-ee1a1300-364d-11eb-8bf9-8794df128a6d.png)
+![](https://raw.githubusercontent.com/m1LL10n0/HW-2/main/figures/Figure4.jpg)
 
-![](https://user-images.githubusercontent.com/57071317/101175528-ef4b4000-364d-11eb-87ba-d6b8679f51c5.png0)
+![](https://raw.githubusercontent.com/m1LL10n0/HW-2/main/figures/Figure5.jpg)
 
 ![](https://user-images.githubusercontent.com/57071317/101175528-ef4b4000-364d-11eb-87ba-d6b8679f51c5.png)
 
