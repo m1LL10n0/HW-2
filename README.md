@@ -150,9 +150,9 @@ COST = \[(L1 Data Size (kb))x1.1^(L1 Data Assoc) + (L1 Instr Size (kb))x1.1^(L1 
 
 Απο τα διαγράμμτα καταλαβαίνουμε οτι η μεταβολή των παραμέτρων -εκτός του cache line size-, δεν έχει αντίκτυπο στην τιμή του cpi. Για αυτό τον λόγο, για όλα τα banchmarks διαλέγουμε την μικρότερη τιμή των παραμέτρων αυτών (dcache=32kb icache=32kb l2=512kb dcache_associativity=1, icache_associativity=1, l2cache_associativity=1), η οποία είναι και η φθηνότερη στην υλοποίηση. Την ίδια τακτική ακολουθούμε και για το cache line size, για τις περιπτώσεις των specbzip, specmcf,spechmmer, (cahe_line_size=32b) αφού και σε αυτές τις περιπτώσεις δεν έχουμε εμφανή βελτίωση στο cpi για μεγαλύτερο μέγεθος cache_line. Όσον αφορά τα specsjeng kai speclibm διαλέγουμε την τιμή μεγέθους cahe_line που ελαχιστοποιεί το παραπάνω γινόμενο. Διαλέγουμε επομένως cache_line_size=64b για το speclibm και cache_line_size=128b για το specsjeng.
 **speclibm**
-  *K_32 = 6.5764
-  *K_64 = 4.8094
-  *k_128 = 4.8868
+* K_32 = 6.5764
+* K_64 = 4.8094
+* k_128 = 4.8868
 
 
 Comment:  
