@@ -69,7 +69,7 @@ To default cpu-clock του se.py έιναι για εμάς 2GHz(το clock τ�
 
 Aνατρέχοντας στα αρχεία conifig.ini και config.json των προσομοιώσεων και αναζητώντας τις παραπάνω λέξεις παρατηρούμε ότι:
 
-|Xρονίζεται στο 1GHz| Χρονίζεται στα 2GHz
+|Παραμένει στο 1GHz| Πηγαίνει στα 2GHz
 |---|---
 |mem_ctrls|cpu
 |mem_ctrls.dram|dcache
